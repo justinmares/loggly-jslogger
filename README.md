@@ -1,7 +1,7 @@
 loggly-jslogger
 ===============
 
-Client-side (browser) logger to use with Loggly gen2.
+Client-side (browser) logger to use with Loggly gen2. Check out the <a href="https://www.loggly.com/docs/javascript/">Loggly Javascript docs</a> pages here.
 
 Installation
 ------------
